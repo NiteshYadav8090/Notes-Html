@@ -16,6 +16,15 @@
 		 !DOCTYPE html tag browser ko batata hai ki ye HTML5 document hai. Isse browser ko ye samajhne mein madad milti hai ki page ko kaise render (display) karna hai.
 	</li>
 	<li>
-		The html tage element is the root element of an HTML page
+			Pure HTML document ka root (starting point) hai.
+	</li>
+	<li>
+		Language define karta hai (yahan English).
+	</li>
+	<li>
+		Isme meta info hoti hai jaise title, character set, responsive settings, etc.
+	</li>
+	<li>
+			Batata hai ki text ka encoding UTF-8 mein hai (jo most common hai).
 	</li>
 </ol>
